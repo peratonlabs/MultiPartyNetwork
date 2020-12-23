@@ -1,0 +1,34 @@
+player 9/10
+player 9> connecting to player 1 channel 0 @ mpc0001 - 127.0.0.1:8000
+player 9> connected to player 1 on channel 0
+player 9> connecting to player 2 channel 0 @ mpc0002 - 127.0.0.1:8001
+player 9> connected to player 2 on channel 0
+player 9> connecting to player 3 channel 0 @ mpc0003 - 127.0.0.1:8002
+player 9> connected to player 3 on channel 0
+player 9> connecting to player 4 channel 0 @ mpc0004 - 127.0.0.1:8003
+player 9> connected to player 4 on channel 0
+player 9> connecting to player 5 channel 0 @ mpc0005 - 127.0.0.1:8004
+player 9> connected to player 5 on channel 0
+player 9> connecting to player 6 channel 0 @ mpc0006 - 127.0.0.1:8005
+player 9> connected to player 6 on channel 0
+player 9> connecting to player 7 channel 0 @ mpc0007 - 127.0.0.1:8006
+player 9> connected to player 7 on channel 0
+player 9> connecting to player 8 channel 0 @ mpc0008 - 127.0.0.1:8007
+player 9> connected to player 8 on channel 0
+player 9> connecting to player 10 channel 0 @ mpc0010 - 127.0.0.1:8009
+player 9> player 10 connected on channel 0
+player 9> connecting to player 10 channel 0 @ mpc0010 - 127.0.0.1:8009
+player 9> player 1 connected on channel 0
+player 9> player 2 connected on channel 0
+player 9> player 3 connected on channel 0
+player 9> player 4 connected on channel 0
+player 9> player 5 connected on channel 0
+player 9> player 6 connected on channel 0
+player 9> player 7 connected on channel 0
+player 9> player 8 connected on channel 0
+player 9> connecting to player 10 channel 0 @ mpc0010 - 127.0.0.1:8009
+player 9> connected to player 10 on channel 0
+connected!
+player 9 received: rock from player 8
+player 9 sent: rock to player 10
+exiting!

@@ -1,0 +1,45 @@
+player 2/10
+player 2> connecting to player 1 channel 0 @ mpc0001 - 127.0.0.1:8000
+player 2> connected to player 1 on channel 0
+player 2> connecting to player 3 channel 0 @ mpc0003 - 127.0.0.1:8002
+player 2> connecting to player 4 channel 0 @ mpc0004 - 127.0.0.1:8003
+player 2> connecting to player 5 channel 0 @ mpc0005 - 127.0.0.1:8004
+player 2> connecting to player 6 channel 0 @ mpc0006 - 127.0.0.1:8005
+player 2> connecting to player 7 channel 0 @ mpc0007 - 127.0.0.1:8006
+player 2> connecting to player 8 channel 0 @ mpc0008 - 127.0.0.1:8007
+player 2> connecting to player 9 channel 0 @ mpc0009 - 127.0.0.1:8008
+player 2> connecting to player 10 channel 0 @ mpc0010 - 127.0.0.1:8009
+player 2> player 3 connected on channel 0
+player 2> player 4 connected on channel 0
+player 2> player 5 connected on channel 0
+player 2> player 6 connected on channel 0
+player 2> player 7 connected on channel 0
+player 2> player 8 connected on channel 0
+player 2> player 9 connected on channel 0
+player 2> player 10 connected on channel 0
+player 2> connecting to player 3 channel 0 @ mpc0003 - 127.0.0.1:8002
+player 2> connecting to player 4 channel 0 @ mpc0004 - 127.0.0.1:8003
+player 2> connecting to player 5 channel 0 @ mpc0005 - 127.0.0.1:8004
+player 2> connecting to player 6 channel 0 @ mpc0006 - 127.0.0.1:8005
+player 2> connecting to player 7 channel 0 @ mpc0007 - 127.0.0.1:8006
+player 2> connecting to player 8 channel 0 @ mpc0008 - 127.0.0.1:8007
+player 2> connecting to player 9 channel 0 @ mpc0009 - 127.0.0.1:8008
+player 2> connecting to player 10 channel 0 @ mpc0010 - 127.0.0.1:8009
+player 2> player 1 connected on channel 0
+player 2> connecting to player 3 channel 0 @ mpc0003 - 127.0.0.1:8002
+player 2> connected to player 3 on channel 0
+player 2> connecting to player 4 channel 0 @ mpc0004 - 127.0.0.1:8003
+player 2> connected to player 4 on channel 0
+player 2> connecting to player 5 channel 0 @ mpc0005 - 127.0.0.1:8004
+player 2> connected to player 5 on channel 0
+player 2> connecting to player 6 channel 0 @ mpc0006 - 127.0.0.1:8005
+player 2> connected to player 6 on channel 0
+player 2> connecting to player 7 channel 0 @ mpc0007 - 127.0.0.1:8006
+player 2> connected to player 7 on channel 0
+player 2> connecting to player 8 channel 0 @ mpc0008 - 127.0.0.1:8007
+player 2> connected to player 8 on channel 0
+player 2> connecting to player 9 channel 0 @ mpc0009 - 127.0.0.1:8008
+player 2> connected to player 9 on channel 0
+player 2> connecting to player 10 channel 0 @ mpc0010 - 127.0.0.1:8009
+player 2> connected to player 10 on channel 0
+connected!
