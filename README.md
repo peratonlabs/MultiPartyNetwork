@@ -1,6 +1,6 @@
-# MultiPlayerNetwork (mp_network)
+# MultiPartyNetwork (mp_network)
 
-The multi-player network class is a c++ header and source file used to establish a fully-connected network with an arbitrary number of tcp channels between every party. Once the network is fully-connected, the class provides synchronous and asynchronous networking functionality to send and recieve data. mp_network depends on libBoost.
+The multi-party network class is a c++ header and source file used to establish a fully-connected network with an arbitrary number of tcp channels between every party. Once the network is fully-connected, the class provides synchronous and asynchronous networking functionality to send and recieve data. mp_network depends on libBoost.
 
 Examples | Description
 ------------- | -------------
